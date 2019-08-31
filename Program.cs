@@ -9,6 +9,8 @@ namespace HelloWorld
             // Pause to Display Hello World.
             Console.WriteLine("Press any key to continue...");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Thank you for looking at my first Console App!");
+            Console.WriteLine("Expect more in my future.");
             Console.ReadKey(true);
         }
     }
